@@ -1,4 +1,12 @@
 # Sublime快捷键与常用插件配置总结
+
+[TOC]
+> Write By CS逍遥剑仙
+> 我的主页: [www.csxiaoyao.com](http://www.csxiaoyao.com)
+> GitHub: [github.com/csxiaoyaojianxian](https://github.com/csxiaoyaojianxian)
+> Email: sunjianfeng@csxiaoyao.com
+> QQ: [1724338257](wpa.qq.com/msgrd?uin=1724338257&site=qq&menu=yes)
+
 ## 1. 快捷键
 ctrl + ~：打开控制台
 Ctrl+Shift+P：打开命令面板
@@ -295,3 +303,5 @@ ActualVim：使用vim
 "font_face": "微软雅黑",
 "font_size": 14,
 ```
+
+![www.csxiaoyao.com](http://www.csxiaoyao.com/src/img/sign.jpg)
